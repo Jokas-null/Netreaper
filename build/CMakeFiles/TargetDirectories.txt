@@ -1,0 +1,3 @@
+/home/jokas/dev/netreaper/build/CMakeFiles/netreaper.dir
+/home/jokas/dev/netreaper/build/CMakeFiles/edit_cache.dir
+/home/jokas/dev/netreaper/build/CMakeFiles/rebuild_cache.dir
